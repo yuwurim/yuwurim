@@ -21,6 +21,7 @@
 <a href="https://instagram.com/yuwurim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuwurim" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">☆*: ｎｏｗ　ｐｌａｙｉｎｇ．．．</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=castboo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
