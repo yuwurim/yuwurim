@@ -7,6 +7,11 @@
 
 ![yuwurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwurim&show_icons=true&theme=swift)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwurim&layout=compact&langs_count=16&theme=swift)](https://github.com/yuwurim/github-readme-stats)
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=yuwurim&show_icons=true&theme=swift" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuwurim&theme=swift&layout=compact" />
+</div>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
