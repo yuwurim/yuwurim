@@ -5,9 +5,16 @@
 - 😄 Pronomes: ele/dele-o
 - ⚡ <i> Nothing really matters </i>
 - 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yuwurim&show_icons=true&theme=vue" alt="yuwurim" />
-<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=yuwurim&show_icons=true&theme=vue](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwurim&layout=compact&langs_count=16&theme=vue)" alt="yuwurim" />
 
+ <a href="https://github.com/yuwurim/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuwurim&repo=github-readme-stats&theme=vue" />
+</a>
+<a href="https://github.com/yuwurim/yuwurim.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuwurim&repo=anuraghazra.github.io&theme=vue" />
+</a>
+
+<br />
+<br />
 ![yuwurim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuwurim&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuwurim&layout=compact&langs_count=16&theme=vue)](https://github.com/yuwurim/github-readme-stats)
 
