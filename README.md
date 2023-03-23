@@ -22,6 +22,6 @@
 </p>
 
 <h3 align="left">☆*: ｎｏｗ　ｐｌａｙｉｎｇ．．．</h3>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=castboo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b2f2b0&bar_color_cover=true)](https://github.com/yuwurim/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=castboo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b2f2b0&bar_color_cover=true)]
 
 
