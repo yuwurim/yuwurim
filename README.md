@@ -18,6 +18,6 @@
 <h3 align="left">☆*: 𝗥𝗲𝗱𝗲𝘀 𝘀𝗼𝗰𝗶𝗮𝗶𝘀</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sofhiamassaneia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofhiamassaneia" height="30" width="40" /></a>
-<a href="https://instagram.com/yuwurim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuwurim" height="30" width="40" /></a>
+<a href="https://instagram.com/massanxia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuwurim" height="30" width="40" /></a>
 </p>
 
